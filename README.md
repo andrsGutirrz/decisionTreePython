@@ -3,9 +3,9 @@ Decision Tree using Python
 
 # Requirements
 
-Python with Anaconda Distribution
-Graphviz installed on the computer and added to path variables
-Sklearn version 0.21
+1) Python with Anaconda Distribution  
+2) Graphviz installed on the computer and added to path variables  
+3) Sklearn version 0.21  
 
 
 
