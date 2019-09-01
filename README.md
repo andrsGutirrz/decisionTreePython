@@ -1,5 +1,12 @@
 # decisionTreePython
-Decision Tree using Python and Titanic dataset example
+Decision Tree using Python
+
+# Requirements
+
+Python with Anaconda Distribution
+Graphviz installed on the computer and added to path variables
+Sklearn version 0.21
+
 
 
 ## Links recomendados para la lectura
